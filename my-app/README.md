@@ -5,7 +5,7 @@ Feel free to contact us for further questions.
 
 ## Development
 
-Update your local database connection in `application.yml` or create your own `application-local.yml` file to override
+Update your local database connection in `application.properties` or create your own `application-local.properties` file to override
 settings for development.
 
 During development it is recommended to use the profile `local`. In IntelliJ `-Dspring.profiles.active=local` can be
@@ -27,7 +27,7 @@ mvnw clean package
 Start your application with the following command - here with the profile `production`:
 
 ```
-java -Dspring.profiles.active=production -jar ./target/my-app-0.0.1-SNAPSHOT.jar
+java -Dspring.profiles.active=production -jar ./target/My-app-0.0.1-SNAPSHOT.jar
 ```
 
 If required, a Docker image can be created with the Spring Boot plugin. Add `SPRING_PROFILES_ACTIVE=production` as

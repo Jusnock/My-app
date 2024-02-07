@@ -7,13 +7,16 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class ReservationDTO {
+public class UserDTO {
 
     private Long id;
 
-    @Size(max = 1000)
-    private String amenityType;
+    @Size(max = 255)
+    private String name;
 
-    private Long user;
+    @Size(max = 255)
+    private String lastName;
+
+    private Integer phoneNumber;
 
 }

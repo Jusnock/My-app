@@ -9,9 +9,9 @@
         <relativePath /><!-- lookup parent from repository -->
     </parent>
     <groupId>io.bootify</groupId>
-    <artifactId>my-app</artifactId>
+    <artifactId>My-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>my-app</name>
+    <name>My-app</name>
 
     <properties>
         <java.version>17</java.version>

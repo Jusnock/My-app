@@ -39,6 +39,15 @@ public class User {
     )
     private Long id;
 
+    @Column
+    private String name;
+
+    @Column
+    private String lastName;
+
+    @Column
+    private Integer phoneNumber;
+
     @OneToMany(mappedBy = "user")
     private Set<Reservation> reservation;
 

@@ -38,7 +38,7 @@ public class Reservation {
     )
     private Long id;
 
-    @Column
+    @Column(length = 1000)
     private String amenityType;
 
     @ManyToOne(fetch = FetchType.LAZY)
