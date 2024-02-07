@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e81d67cd-b12d-4470-983e-d12ed53f96c6" name="Changes" comment="" />
+    <list default="true" id="8c043545-dc36-4427-825b-5885a0d1dce9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My-app/src/main/java/io/bootify/my_app/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/My-app/src/main/java/io/bootify/my_app/domain/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   "customColor": "",
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2c3I8Kp1LEAhaFsgA3z45fMZTrn" />
+  <component name="ProjectId" id="2c3W21L0aNrdvSCcKDLitbDZ4iy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +31,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -37,7 +39,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.MyAppApplication.executor": "Run",
     "git-widget-placeholder": "Main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -67,12 +68,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e81d67cd-b12d-4470-983e-d12ed53f96c6" name="Changes" comment="" />
-      <created>1707333675821</created>
+      <changelist id="8c043545-dc36-4427-825b-5885a0d1dce9" name="Changes" comment="" />
+      <created>1707340532297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707333675821</updated>
-      <workItem from="1707333677091" duration="783000" />
+      <updated>1707340532297</updated>
+      <workItem from="1707340534228" duration="1011000" />
     </task>
     <servers />
   </component>

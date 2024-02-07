@@ -45,8 +45,6 @@ public class User {
     @Column
     private String lastName;
 
-    @Column
-    private Integer phoneNumber;
 
     @OneToMany(mappedBy = "user")
     private Set<Reservation> reservation;

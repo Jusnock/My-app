@@ -52,14 +52,12 @@ public class UserService {
         userDTO.setId(user.getId());
         userDTO.setName(user.getName());
         userDTO.setLastName(user.getLastName());
-        userDTO.setPhoneNumber(user.getPhoneNumber());
         return userDTO;
     }
 
     private User mapToEntity(final UserDTO userDTO, final User user) {
         user.setName(userDTO.getName());
         user.setLastName(userDTO.getLastName());
-        user.setPhoneNumber(userDTO.getPhoneNumber());
         return user;
     }
 

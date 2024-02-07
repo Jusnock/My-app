@@ -17,6 +17,6 @@ public class UserDTO {
     @Size(max = 255)
     private String lastName;
 
-    private Integer phoneNumber;
+
 
 }
